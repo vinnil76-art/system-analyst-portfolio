@@ -40,7 +40,7 @@ SQL Server / SSMS • DBeaver • IBExpert • Jira • Confluence •
 BPMN/UML (Visio / Draw.io / Lucid) • Miro • Figma • Excel/Sheets • GPT tools
 
 ## Contacts
-- LinkedIn: [add link]
-- Upwork: [add link]
-- Email: [add email]
+- LinkedIn: www.linkedin.com/in/liudmyla-vynnychuk
+- Upwork: https://www.upwork.com/freelancers/~0147df057e3236d70b
+- Email: vinnil76@gmail.com
 - Location: Tbilisi, Georgia
