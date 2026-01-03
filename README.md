@@ -56,6 +56,10 @@ System-level lifecycle mapping of well statuses, including transitions between p
 
 ![Well Status Lifecycle](Diagrams/lifecycle/well-status-lifecycle.png)
 
+**My Role / What I Did**
+- Defined system-level well status model and transitions.
+- Mapped external OTC statuses to internal system statuses.
+- Validated lifecycle logic with business and data teams.
 ---
 
 ### Report Generation Workflow
@@ -64,6 +68,10 @@ BPMN-style workflow describing group report generation, validation, approval, an
 
 ![Report Generation Workflow](Diagrams/workflows/report-generation-workflow.png)
 
+**My Role / What I Did**
+- Analyzed and modeled the report generation and approval process.
+- Defined system behavior for edge cases (no data, regeneration, cancellation).
+- Aligned workflow with business rules and user actions.
 ---
 
 ### Database Design Example
@@ -71,6 +79,11 @@ BPMN-style workflow describing group report generation, validation, approval, an
 Relational database design example with entities, relationships, and key constraints.
 
 ![Database Design Example](Diagrams/database/database-design-example.png)
+
+**My Role / What I Did**
+- Designed relational database structure and entity relationships.
+- Defined primary/foreign keys and data ownership.
+- Ensured data integrity and support for reporting and business processes.
 
 
 ## Tools
