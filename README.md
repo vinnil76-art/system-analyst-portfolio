@@ -46,6 +46,33 @@ Technology • Energy & Utilities • Public Sector • Professional Services
 **Work:** SQL checks, reconciliation logic, root-cause analysis, fix recommendations.  
 **Result:** stable reporting/calculations; reduced support requests by ~30%.
 
+---
+
+## Example Diagrams
+
+### Well Status Lifecycle (Oil & Gas)
+
+System-level lifecycle mapping of well statuses, including transitions between permitted, drilling, producing, inactive, and abandoned states.
+
+![Well Status Lifecycle](Diagrams/lifecycle/well-status-lifecycle.png)
+
+---
+
+### Report Generation Workflow
+
+BPMN-style workflow describing group report generation, validation, approval, and publication logic.
+
+![Report Generation Workflow](Diagrams/workflows/report-generation-workflow.png)
+
+---
+
+### Database Design Example
+
+Relational database design example with entities, relationships, and key constraints.
+
+![Database Design Example](Diagrams/database/database-design-example.png)
+
+
 ## Tools
 SQL Server / SSMS • DBeaver • IBExpert • Jira • Confluence •  
 BPMN/UML (Visio / Draw.io / Lucid) • Miro • Figma • Excel/Sheets • GPT tools
