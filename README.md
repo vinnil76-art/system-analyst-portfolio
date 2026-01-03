@@ -55,5 +55,5 @@ BPMN/UML (Visio / Draw.io / Lucid) • Miro • Figma • Excel/Sheets • GPT t
 - Upwork: https://www.upwork.com/freelancers/~0147df057e3236d70b
 - Email: vinnil76@gmail.com
 - Location: Tbilisi, Georgia
-Open to remote contract work and consulting engagements.
+- Open to remote contract work and consulting engagements.
 
