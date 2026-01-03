@@ -59,7 +59,7 @@ System-level lifecycle mapping of well statuses, including transitions between p
 **My Role / What I Did**
 - Defined system-level well status model and transitions.
 - Mapped external OTC statuses to internal system statuses.
-- Validated lifecycle logic with business and data teams.
+- Validated lifecycle logic with business stakeholders and data teams.
 ---
 
 ### Report Generation Workflow
