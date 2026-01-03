@@ -1,5 +1,9 @@
 ## Liudmila V — System Analyst Portfolio
 
+**Senior System Analyst / Business Analyst (20+ years in IT)**  
+Requirements · User Stories & Acceptance Criteria · BPMN/UML · SQL/Data Analysis · Remote
+
+
 Senior System Analyst / Business Analyst with 20 years of IT experience.  
 Expert in requirements formalization, BPMN/UML process modeling, and data/SQL investigations.  
 Remote IT services for foreign clients | Individual Entrepreneur (IE) in Georgia since March 2024.
@@ -11,6 +15,13 @@ Remote IT services for foreign clients | Individual Entrepreneur (IE) in Georgia
 - Data analysis & SQL investigations, reconciliations, calculations
 - Relational database logic validation (ERD review, data integrity)
 - Sprint support, demos, final BA acceptance, UAT
+
+## How I Can Help
+
+- Clarify vague requirements and turn them into structured user stories & acceptance criteria
+- Model complex business processes (as-is / to-be) using BPMN/UML
+- Investigate data issues, calculations, and inconsistencies using SQL
+- Support product teams during implementation, UAT, and release
 
 ## Project Types
 Digital Transformation • Product Management • Software Implementation •  
@@ -44,3 +55,5 @@ BPMN/UML (Visio / Draw.io / Lucid) • Miro • Figma • Excel/Sheets • GPT t
 - Upwork: https://www.upwork.com/freelancers/~0147df057e3236d70b
 - Email: vinnil76@gmail.com
 - Location: Tbilisi, Georgia
+Open to remote contract work and consulting engagements.
+
