@@ -70,7 +70,7 @@ BPMN-style workflow describing group report generation, validation, approval, an
 
 **My Role / What I Did**
 - Analyzed and modeled the report generation and approval process.
-- Defined system behavior for edge cases (no data, regeneration, cancellation).
+- Defined system behavior for edge cases (no data, regeneration, cancellation scenarios).
 - Aligned workflow with business rules and user actions.
 ---
 
@@ -81,9 +81,9 @@ Relational database design example with entities, relationships, and key constra
 ![Database Design Example](Diagrams/database/database-design-example.png)
 
 **My Role / What I Did**
-- Designed relational database structure and entity relationships.
-- Defined primary/foreign keys and data ownership.
-- Ensured data integrity and support for reporting and business processes.
+- Designed relational data model with clear entity relationships.
+- Defined primary/foreign keys and data integrity constraints.
+- Validated data structure against reporting and business requirements.
 
 
 ## Tools
